@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DRS.WelcomePage">
+  
+    <StackLayout VerticalOptions="Center">
+    <Label Text="{Binding MainText}" VerticalOptions="Center" HorizontalOptions="Center" />
+    <ContentView Padding="0,0,0,100">
+    <Label Text="Welcome to Doctor Rater" VerticalOptions="Center" HorizontalOptions="Center"  FontSize="30"  />
+    </ContentView >
+    <Label  x:Name="Username" Text="Username" VerticalOptions="Center" HorizontalOptions="Center"  FontSize="25" />
+    <Entry Placeholder="Enter Username Here" VerticalOptions="Center" HorizontalOptions="Fill" />
+    <Label Text="Password" VerticalOptions="Center" HorizontalOptions="Center"  FontSize="25" />
+    <Entry  x:Name="Password" Placeholder="Enter Password Here" VerticalOptions="Center" HorizontalOptions="Fill" />
+    <ContentView Padding="0,100,0,0">
+    <Button Text="Sign in" FontSize="25" VerticalOptions="Center" HorizontalOptions="Fill" Clicked="SignIn"/>
+    </ContentView>
+      
+  </StackLayout>
+</ContentPage>
