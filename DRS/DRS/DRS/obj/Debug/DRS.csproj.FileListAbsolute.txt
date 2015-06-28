@@ -1,0 +1,12 @@
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\bin\Debug\DRS.dll
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\bin\Debug\DRS.pdb
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\obj\Debug\WelcomePage.xaml.g.cs
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\obj\Debug\DoctorSearch.xaml.g.cs
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\obj\Debug\DoctorRating.xaml.g.cs
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\obj\Debug\DRS.dll
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\obj\Debug\DRS.pdb
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\obj\Debug\DRS.csprojResolveAssemblyReference.cache

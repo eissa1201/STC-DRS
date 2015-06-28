@@ -14,5 +14,10 @@ namespace DRS
         {
             InitializeComponent();
         }
+
+        void SignIn(object sender, EventArgs args)
+        {
+
+        }
     }
 }
