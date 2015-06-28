@@ -16,14 +16,8 @@ namespace DRS {
     
     public partial class WelcomePage : ContentPage {
         
-        private Label Username;
-        
-        private Entry Password;
-        
         private void InitializeComponent() {
             this.LoadFromXaml(typeof(WelcomePage));
-            Username = this.FindByName<Label>("Username");
-            Password = this.FindByName<Entry>("Password");
         }
     }
 }

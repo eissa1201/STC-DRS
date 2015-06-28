@@ -1,20 +1,51 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="DRS.WelcomePage">
-  
-    <StackLayout VerticalOptions="Center">
-    <Label Text="{Binding MainText}" VerticalOptions="Center" HorizontalOptions="Center" />
-    <ContentView Padding="0,0,0,100">
-    <Label Text="Welcome to Doctor Rater" VerticalOptions="Center" HorizontalOptions="Center"  FontSize="30"  />
+             x:Class="DRS.WelcomePage" BackgroundImage="black.jpg">
+
+  <StackLayout>
+    <Image Source="stc3.png" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Aspect="AspectFill"/>
+    <Image Source="DRS.png" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Aspect="AspectFill"/>
+
+    <ContentView Padding="0,50,0,0">
+      <Grid >
+        <Grid.RowDefinitions>
+
+          <RowDefinition Height="*"></RowDefinition>
+          <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+          <ColumnDefinition Width="150"></ColumnDefinition>
+          <ColumnDefinition Width="*"></ColumnDefinition>
+
+        </Grid.ColumnDefinitions>
+
+
+        <Label   TextColor="Red" FontAttributes="Bold"   FontSize="28"
+                 Text="Username" Grid.Row="0" Grid.Column="0" VerticalOptions="Center"
+                 HorizontalOptions="Start"></Label>
+
+        <Entry TextColor="Black"   Placeholder="enter Username here"
+               Grid.Row="0" Grid.Column="1" Text="2" VerticalOptions="Center"
+               HorizontalOptions="Fill"
+               BackgroundColor="White"></Entry>
+
+        <Label   TextColor="Red" FontAttributes="Bold"   FontSize="28"
+                 Text="Password" Grid.Row="1" Grid.Column="0"
+                 VerticalOptions="Center"
+                 HorizontalOptions="Start"></Label>
+
+        <Entry   TextColor="Black"   Placeholder="enter Password here"
+                 Grid.Row="1" Grid.Column="1" Text="2"
+                 VerticalOptions="Center"
+                 HorizontalOptions="Fill" BackgroundColor="White"></Entry>
+
+      </Grid>
     </ContentView >
-    <Label  x:Name="Username" Text="Username" VerticalOptions="Center" HorizontalOptions="Center"  FontSize="25" />
-    <Entry Placeholder="Enter Username Here" VerticalOptions="Center" HorizontalOptions="Fill" />
-    <Label Text="Password" VerticalOptions="Center" HorizontalOptions="Center"  FontSize="25" />
-    <Entry  x:Name="Password" Placeholder="Enter Password Here" VerticalOptions="Center" HorizontalOptions="Fill" />
-    <ContentView Padding="0,100,0,0">
-    <Button Text="Sign in" FontSize="25" VerticalOptions="Center" HorizontalOptions="Fill" Clicked="SignIn"/>
+    <ContentView Padding="0,45,0,0">
+      <Button FontSize="30"
+              Text="Sign in" VerticalOptions="Center"
+              HorizontalOptions="FillAndExpand" />
     </ContentView>
-      
   </StackLayout>
 </ContentPage>
