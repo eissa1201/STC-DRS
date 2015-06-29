@@ -1,6 +1,41 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="DRS.DoctorSearch">
-  <Label Text="{Binding MainText}" VerticalOptions="Center" HorizontalOptions="Center" />
+             x:Class="DRS.DoctorSearch" BackgroundImage="black.jpg">
+ <StackLayout>
+   <Grid >
+     <Grid.RowDefinitions>
+
+    
+     </Grid.RowDefinitions>
+     <Grid.ColumnDefinitions>
+       <ColumnDefinition Width="*"></ColumnDefinition>
+       <ColumnDefinition Width="*"></ColumnDefinition>
+     </Grid.ColumnDefinitions>
+     
+     <Entry  Grid.Row="0" Grid.Column="0" Placeholder="search here" TextColor="Black" 
+             VerticalOptions="Center" HorizontalOptions="Fill" />
+     
+     <Button  TextColor="White" FontAttributes="Bold"   FontSize="20"
+              Text="Search" Grid.Row="0" Grid.Column="1" VerticalOptions="Center"
+              HorizontalOptions="FillAndExpand"></Button>
+
+</Grid>
+
+       <TableView >
+         <TableView.Root>
+           <TableSection>
+             <TextCell   x:Name="CELL1" Text="Dr.Ahmed Eissa Al-Eissa" />
+             <TextCell   x:Name="CELL2" Text="Dr.Sultan Ahmed Thamer" />
+             <TextCell   x:Name="CELL3" Text="Dr.mansoor Al-towyan" />
+             <TextCell   x:Name="CELL4" Text="Dr.Hamza Al-rawi" />
+             <TextCell   x:Name="CELL5" Text="Dr.Ibrahim Al-salim" />
+             <TextCell   x:Name="CELL6" Text="Dr.Muhammad eissa" />
+             <TextCell   x:Name="CELL7" Text="Dr.Jaber al-quhtani" />
+             <TextCell   x:Name="CELL8" Text="Dr.Musab al-soywan" />
+           </TableSection>
+         </TableView.Root>
+       </TableView>
+
+ </StackLayout>
 </ContentPage>
