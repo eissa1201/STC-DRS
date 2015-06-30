@@ -87,6 +87,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Properties\AndroidManifest.xml" />
+    <Content Include="Resources\drawable\DRS.png" />
+    <Content Include="Resources\drawable\KING.jpg" />
+    <Content Include="Resources\drawable\stc3.png" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DRS\DRS.csproj">

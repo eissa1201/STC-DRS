@@ -125,6 +125,7 @@
   <ItemGroup>
     <Content Include="black.jpg" />
     <Content Include="DRS.png" />
+    <Content Include="KING.jpg" />
     <Content Include="README_FIRST.txt" />
     <Content Include="SplashScreenImage.jpg">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>

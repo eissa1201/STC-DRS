@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="DRS.DoctorSearch" BackgroundImage="black.jpg">
+             x:Class="DRS.DoctorSearch" BackgroundImage="KING.jpg">
  <StackLayout>
    <Grid >
      <Grid.RowDefinitions>
@@ -18,7 +18,7 @@
      
      <Button  TextColor="White" FontAttributes="Bold"   FontSize="20"
               Text="Search" Grid.Row="0" Grid.Column="1" VerticalOptions="Center"
-              HorizontalOptions="FillAndExpand"></Button>
+              HorizontalOptions="FillAndExpand" BackgroundColor="Transparent"></Button>
 
 </Grid>
 
