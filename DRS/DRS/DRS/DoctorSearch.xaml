@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="DRS.DoctorSearch" BackgroundImage="KING.jpg">
+             x:Class="DRS.DoctorSearch" BackgroundImage="hall.jpg">
  <StackLayout>
    <Grid >
      <Grid.RowDefinitions>
@@ -25,14 +25,14 @@
        <TableView >
          <TableView.Root>
            <TableSection>
-             <TextCell   x:Name="CELL1" Text="Dr.Ahmed Eissa Al-Eissa" />
-             <TextCell   x:Name="CELL2" Text="Dr.Sultan Ahmed Thamer" />
-             <TextCell   x:Name="CELL3" Text="Dr.mansoor Al-towyan" />
-             <TextCell   x:Name="CELL4" Text="Dr.Hamza Al-rawi" />
-             <TextCell   x:Name="CELL5" Text="Dr.Ibrahim Al-salim" />
-             <TextCell   x:Name="CELL6" Text="Dr.Muhammad eissa" />
-             <TextCell   x:Name="CELL7" Text="Dr.Jaber al-quhtani" />
-             <TextCell   x:Name="CELL8" Text="Dr.Musab al-soywan" />
+             <TextCell   x:Name="CELL1" Text="Dr.Ahmed Eissa Al-Eissa" TextColor="Black"  />
+             <TextCell   x:Name="CELL2" Text="Dr.Sultan Ahmed Thamer" TextColor="Black"/>
+             <TextCell   x:Name="CELL3" Text="Dr.mansoor Al-towyan" TextColor="Black"/>
+             <TextCell   x:Name="CELL4" Text="Dr.Hamza Al-rawi" TextColor="Black"/>
+             <TextCell   x:Name="CELL5" Text="Dr.Ibrahim Al-salim" TextColor="Black"/>
+             <TextCell   x:Name="CELL6" Text="Dr.Muhammad eissa" TextColor="Black"/>
+             <TextCell   x:Name="CELL7" Text="Dr.Jaber al-quhtani" TextColor="Black"/>
+             <TextCell   x:Name="CELL8" Text="Dr.Musab al-soywan" TextColor="Black"/>
            </TableSection>
          </TableView.Root>
        </TableView>

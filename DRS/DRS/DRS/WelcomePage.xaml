@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="DRS.WelcomePage" BackgroundImage="KING.jpg">
+             x:Class="DRS.WelcomePage" BackgroundImage="hall.jpg">
 
   <StackLayout>
-    <Image Source="stc3.png" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Aspect="AspectFill" BackgroundColor="Transparent"/>
+    <Image Source="stc4.png" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Aspect="AspectFill" BackgroundColor="Transparent"/>
     <!--<Image Source="DRS.png" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Aspect="AspectFill"/> -->
 
     <ContentView Padding="0,50,0,0">
