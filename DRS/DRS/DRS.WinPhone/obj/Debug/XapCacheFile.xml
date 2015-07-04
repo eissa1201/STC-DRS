@@ -1,9 +1,11 @@
-﻿<xapCache source="C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.WinPhone\Bin\Debug\PhoneApp1_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="6/30/2015 3:24:16 PM">
-  <file source="C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.WinPhone\obj\Debug\DRS.WinPhone.dll" archivePath="DRS.WinPhone.dll" lastWriteTime="6/30/2015 3:24:15 PM" />
+﻿<xapCache source="C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.WinPhone\Bin\Debug\PhoneApp1_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="7/4/2015 11:56:58 PM">
+  <file source="C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.WinPhone\obj\Debug\DRS.WinPhone.dll" archivePath="DRS.WinPhone.dll" lastWriteTime="7/4/2015 11:56:58 PM" />
+  <file source="C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.WinPhone\Assets\Tiles\8jtQwdKJbZGXdWY4dSaA2k9jYXztgPJ50kuzTbn1U-Q.png" archivePath="Assets\Tiles\8jtQwdKJbZGXdWY4dSaA2k9jYXztgPJ50kuzTbn1U-Q.png" lastWriteTime="7/2/2015 10:57:01 AM" />
   <file source="C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.WinPhone\black.jpg" archivePath="black.jpg" lastWriteTime="6/29/2015 11:20:03 AM" />
   <file source="C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.WinPhone\DRS.png" archivePath="DRS.png" lastWriteTime="6/29/2015 11:20:03 AM" />
   <file source="C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.WinPhone\hall.jpg" archivePath="hall.jpg" lastWriteTime="6/30/2015 2:50:58 PM" />
   <file source="C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.WinPhone\KING.jpg" archivePath="KING.jpg" lastWriteTime="6/30/2015 12:31:43 PM" />
+  <file source="C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.WinPhone\List.jpg" archivePath="List.jpg" lastWriteTime="7/4/2015 11:43:50 PM" />
   <file source="C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.WinPhone\README_FIRST.txt" archivePath="README_FIRST.txt" lastWriteTime="6/29/2015 11:20:03 AM" />
   <file source="C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.WinPhone\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="6/30/2015 3:23:47 PM" />
   <file source="C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.WinPhone\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="6/29/2015 11:20:03 AM" />
@@ -19,9 +21,8 @@
   <file source="C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.WinPhone\Toolkit.Content\ApplicationBar.Delete.png" archivePath="Toolkit.Content\ApplicationBar.Delete.png" lastWriteTime="6/29/2015 11:20:03 AM" />
   <file source="C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.WinPhone\Toolkit.Content\ApplicationBar.Select.png" archivePath="Toolkit.Content\ApplicationBar.Select.png" lastWriteTime="6/29/2015 11:20:03 AM" />
   <file source="C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.WinPhone\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="6/30/2015 3:12:08 PM" />
-  <file source="C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.WinPhone\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="6/29/2015 11:20:03 AM" />
   <file source="C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.WinPhone\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="6/29/2015 11:20:03 AM" />
-  <file source="C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\bin\Debug\DRS.dll" archivePath="DRS.dll" lastWriteTime="6/30/2015 3:11:52 PM" />
+  <file source="C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\bin\Debug\DRS.dll" archivePath="DRS.dll" lastWriteTime="7/4/2015 11:56:57 PM" />
   <file source="C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\packages\WPtoolkit.4.2013.08.16\lib\wp8\Microsoft.Phone.Controls.Toolkit.dll" archivePath="Microsoft.Phone.Controls.Toolkit.dll" lastWriteTime="6/29/2015 11:20:03 AM" />
   <file source="C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\packages\Xamarin.Forms.1.3.3.6323\lib\WP80\Xamarin.Forms.Core.dll" archivePath="Xamarin.Forms.Core.dll" lastWriteTime="6/29/2015 11:20:04 AM" />
   <file source="C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\packages\Xamarin.Forms.1.3.3.6323\lib\WP80\Xamarin.Forms.Platform.WP8.dll" archivePath="Xamarin.Forms.Platform.WP8.dll" lastWriteTime="6/29/2015 11:20:04 AM" />
@@ -29,5 +30,6 @@
   <file source="C:\Program Files (x86)\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\System.Windows.Interactivity.dll" archivePath="System.Windows.Interactivity.dll" lastWriteTime="9/25/2012 1:41:02 AM" />
   <file source="C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\packages\Xamarin.Forms.1.3.3.6323\lib\WP80\Xamarin.Forms.Core.xml" archivePath="Xamarin.Forms.Core.xml" lastWriteTime="6/29/2015 11:20:04 AM" />
   <file source="C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\packages\Xamarin.Forms.1.3.3.6323\lib\WP80\Xamarin.Forms.Xaml.xml" archivePath="Xamarin.Forms.Xaml.xml" lastWriteTime="6/29/2015 11:20:04 AM" />
+  <file source="C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.WinPhone\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="7/2/2015 10:57:27 AM" />
   <file source="C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS.WinPhone\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="6/30/2015 3:12:08 PM" />
 </xapCache>

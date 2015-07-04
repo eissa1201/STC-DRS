@@ -123,16 +123,16 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\Tiles\8jtQwdKJbZGXdWY4dSaA2k9jYXztgPJ50kuzTbn1U-Q.png" />
     <Content Include="black.jpg" />
     <Content Include="DRS.png" />
     <Content Include="hall.jpg" />
     <Content Include="KING.jpg" />
+    <Content Include="List.jpg" />
     <Content Include="README_FIRST.txt" />
+    <Content Include="Assets\ApplicationIcon.png" />
     <Content Include="SplashScreenImage.jpg" />
     <Content Include="Assets\AlignmentGrid.png" />
-    <Content Include="Assets\ApplicationIcon.png">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
     <Content Include="Assets\Tiles\FlipCycleTileLarge.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>

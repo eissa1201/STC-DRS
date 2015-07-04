@@ -14,10 +14,10 @@ namespace DRS {
     using Xamarin.Forms.Xaml;
     
     
-    public partial class DoctorSearch : ContentPage {
+    public partial class CitySearch : ContentPage {
         
         private void InitializeComponent() {
-            this.LoadFromXaml(typeof(DoctorSearch));
+            this.LoadFromXaml(typeof(CitySearch));
         }
     }
 }

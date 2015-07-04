@@ -17,7 +17,7 @@ namespace DRS
 
         void SignIn(object sender, EventArgs args)
         {
-            Navigation.PushAsync(new DoctorSearch());
+            Navigation.PushAsync(new CitySearch());
         }
         void Registration(object sender, EventArgs args)
         {

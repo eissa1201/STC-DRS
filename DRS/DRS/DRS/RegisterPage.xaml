@@ -20,25 +20,35 @@
 
         </Grid.ColumnDefinitions>
        
-        <Entry TextColor="White"   Placeholder=" Email"
+        <Entry TextColor="White"   Placeholder="Enter Email"
                       Grid.Row="0" VerticalOptions="Center"
                       HorizontalOptions="Fill"
                       BackgroundColor="Transparent"></Entry>
-        <Entry TextColor="White"   Placeholder=" Username"
+        <Entry TextColor="White"   Placeholder="Enter Username"
                Grid.Row="1" VerticalOptions="Center"
                HorizontalOptions="Fill"
                BackgroundColor="Transparent"></Entry>
 
-        <Entry   TextColor="White"   Placeholder=" Password "
+        <Entry   TextColor="White"   Placeholder="Enter Password "
              Grid.Row="2"
              VerticalOptions="Center"
              HorizontalOptions="Fill" BackgroundColor="Transparent"></Entry>
+       
+        <Entry   TextColor="White"   Placeholder=" Re-Enter Password "
+           Grid.Row="3"
+           VerticalOptions="Center"
+           HorizontalOptions="Fill" BackgroundColor="Transparent"></Entry>
+        
+        <Entry TextColor="White"   Placeholder="Enter Mobile Number"
+              Grid.Row="4" VerticalOptions="Center"
+              HorizontalOptions="Fill"
+              BackgroundColor="Transparent"></Entry>
 
-        <ActivityIndicator Color="White" IsRunning="true"  Grid.Row="3"/>
+        
         
         <Button FontSize="30"
             Text="Register" VerticalOptions="Center"
-            HorizontalOptions="FillAndExpand" Clicked="Registered" Grid.Row="4"  BackgroundColor="Transparent"/>
+            HorizontalOptions="FillAndExpand" Clicked="Registered" Grid.Row="5"  BackgroundColor="Transparent"/>
 
       </Grid>
     </ContentView >
