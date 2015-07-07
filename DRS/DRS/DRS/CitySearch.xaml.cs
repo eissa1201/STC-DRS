@@ -15,7 +15,7 @@ namespace DRS
             InitializeComponent();
             DoctorLogic obj = new DoctorLogic();
             obj.Cell1 = "riyadh";
-            obj.Cell2 = "Damma";
+            obj.Cell2 = "Dammam";
             obj.Cell3 = "Mecca";
             obj.Cell4 = "khobar";
             obj.Cell5 = "jeddah";

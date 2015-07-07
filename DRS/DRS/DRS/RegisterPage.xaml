@@ -4,7 +4,7 @@
              x:Class="DRS.RegisterPage" BackgroundImage="hall.jpg">
 
   <StackLayout>
-    <Image Source="stc4.png" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Aspect="AspectFill"   />
+ 
   
 
     <ContentView Padding="0,50,0,0">
@@ -12,35 +12,36 @@
         <Grid.RowDefinitions>
 
           <RowDefinition Height="*"></RowDefinition>
-          <RowDefinition Height="*"></RowDefinition>
+     
         </Grid.RowDefinitions>
         <Grid.ColumnDefinitions>
 
           <ColumnDefinition Width="*"></ColumnDefinition>
 
         </Grid.ColumnDefinitions>
-       
+        <Image Source="stc4.png" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Aspect="AspectFill"   Grid.Row="0"  />
+        
         <Entry TextColor="White"   Placeholder="Enter Email"
-                      Grid.Row="0" VerticalOptions="Center"
+                      Grid.Row="1" VerticalOptions="Center"
                       HorizontalOptions="Fill"
                       BackgroundColor="Transparent"></Entry>
         <Entry TextColor="White"   Placeholder="Enter Username"
-               Grid.Row="1" VerticalOptions="Center"
+               Grid.Row="2" VerticalOptions="Center"
                HorizontalOptions="Fill"
                BackgroundColor="Transparent"></Entry>
 
         <Entry   TextColor="White"   Placeholder="Enter Password "
-             Grid.Row="2"
+             Grid.Row="3"
              VerticalOptions="Center"
              HorizontalOptions="Fill" BackgroundColor="Transparent"></Entry>
        
         <Entry   TextColor="White"   Placeholder=" Re-Enter Password "
-           Grid.Row="3"
+           Grid.Row="4"
            VerticalOptions="Center"
            HorizontalOptions="Fill" BackgroundColor="Transparent"></Entry>
         
         <Entry TextColor="White"   Placeholder="Enter Mobile Number"
-              Grid.Row="4" VerticalOptions="Center"
+              Grid.Row="5" VerticalOptions="Center"
               HorizontalOptions="Fill"
               BackgroundColor="Transparent"></Entry>
 
@@ -48,7 +49,7 @@
         
         <Button FontSize="30"
             Text="Register" VerticalOptions="Center"
-            HorizontalOptions="FillAndExpand" Clicked="Registered" Grid.Row="5"  BackgroundColor="Transparent"/>
+            HorizontalOptions="FillAndExpand" Clicked="Registered" Grid.Row="6"  BackgroundColor="Transparent"/>
 
       </Grid>
     </ContentView >

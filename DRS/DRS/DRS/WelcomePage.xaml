@@ -7,12 +7,12 @@
     <Image Source="stc4.png" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Aspect="AspectFill" BackgroundColor="Transparent"/>
     <!--<Image Source="DRS.png" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Aspect="AspectFill"/> -->
 
-    <ContentView Padding="0,50,0,0">
+    <ContentView Padding="0,0,0,0">
       <Grid >
         <Grid.RowDefinitions>
 
-          <RowDefinition Height="*"></RowDefinition>
-          <RowDefinition Height="*"></RowDefinition>
+          <RowDefinition Height="Auto"></RowDefinition>
+       
         </Grid.RowDefinitions>
         <Grid.ColumnDefinitions>
           
@@ -35,11 +35,11 @@
         
         <Button FontSize="30"
             Text="Sign in" VerticalOptions="Center"
-            HorizontalOptions="FillAndExpand" Clicked="SignIn" Grid.Row="3"   BackgroundColor="Transparent"/>
+            HorizontalOptions="FillAndExpand" Clicked="SignIn" Grid.Row="3"   BackgroundColor="Transparent" BorderColor="White"/>
 
         <Button FontSize="30"
             Text="Register new account" VerticalOptions="Center"
-            HorizontalOptions="FillAndExpand" Clicked="Registration" Grid.Row="4"  BackgroundColor="Transparent"/>
+            HorizontalOptions="FillAndExpand" Clicked="Registration" Grid.Row="4"  BackgroundColor="Transparent" BorderColor="White"/>
       
       </Grid>
     </ContentView >

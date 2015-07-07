@@ -87,9 +87,18 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Properties\AndroidManifest.xml" />
-    <Content Include="Resources\drawable\DRS.png" />
-    <Content Include="Resources\drawable\KING.jpg" />
-    <Content Include="Resources\drawable\stc3.png" />
+    <AndroidResource Include="Resources\drawable\Complaint.png" />
+    <AndroidResource Include="Resources\drawable\DRS.png" />
+    <AndroidResource Include="Resources\drawable\hall.jpg" />
+    <AndroidResource Include="Resources\drawable\help.png" />
+    <AndroidResource Include="Resources\drawable\history.png" />
+    <AndroidResource Include="Resources\drawable\List.jpg" />
+    <AndroidResource Include="Resources\drawable\Profile.png" />
+    <AndroidResource Include="Resources\drawable\SearchR.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </AndroidResource>
+    <AndroidResource Include="Resources\drawable\settings.png" />
+    <AndroidResource Include="Resources\drawable\stc4.png" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DRS\DRS.csproj">

@@ -124,14 +124,19 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Assets\Tiles\8jtQwdKJbZGXdWY4dSaA2k9jYXztgPJ50kuzTbn1U-Q.png" />
-    <Content Include="black.jpg" />
+    <Content Include="Complaint.png" />
     <Content Include="DRS.png" />
     <Content Include="hall.jpg" />
-    <Content Include="KING.jpg" />
+    <Content Include="help.png" />
+    <Content Include="history.png" />
+    <Content Include="Language.png" />
     <Content Include="List.jpg" />
+    <Content Include="Profile.png" />
+    <Content Include="Rate.png" />
     <Content Include="README_FIRST.txt" />
     <Content Include="Assets\ApplicationIcon.png" />
-    <Content Include="SplashScreenImage.jpg" />
+    <Content Include="SearchR.png" />
+    <Content Include="settings.png" />
     <Content Include="Assets\AlignmentGrid.png" />
     <Content Include="Assets\Tiles\FlipCycleTileLarge.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
@@ -148,13 +153,14 @@
     <Content Include="Assets\Tiles\IconicTileSmall.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="stc3.png" />
+    <Content Include="SplashScreenImage.jpg" />
     <Content Include="stc4.png" />
     <Content Include="Toolkit.Content\ApplicationBar.Add.png" />
     <Content Include="Toolkit.Content\ApplicationBar.Cancel.png" />
     <Content Include="Toolkit.Content\ApplicationBar.Check.png" />
     <Content Include="Toolkit.Content\ApplicationBar.Delete.png" />
     <Content Include="Toolkit.Content\ApplicationBar.Select.png" />
+    <Content Include="trash.png" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Resources\AppResources.resx">

@@ -5,21 +5,23 @@
   <StackLayout>
     <Grid >
       <Grid.RowDefinitions>
-        <RowDefinition Height="Auto"/>
 
+        <RowDefinition Height="Auto"/>
       </Grid.RowDefinitions>
       <Grid.ColumnDefinitions>
         <ColumnDefinition Width="*"></ColumnDefinition>
-        <ColumnDefinition Width="*"></ColumnDefinition>
+        <ColumnDefinition Width="100"></ColumnDefinition>
       </Grid.ColumnDefinitions>
 
       <Entry  Grid.Row="0" Grid.Column="0" Placeholder="search here" TextColor="Black"
-              VerticalOptions="Center" HorizontalOptions="Fill" />
+              VerticalOptions="Center" HorizontalOptions="Fill" BackgroundColor="Transparent"/>
 
-      <Button  TextColor="White" FontAttributes="Bold"   FontSize="20"
-               Text="Search" Grid.Row="0" Grid.Column="1" VerticalOptions="Center"
-               HorizontalOptions="FillAndExpand" BackgroundColor="Transparent"></Button>
-      
+
+      <Image Source="searchb1.png" VerticalOptions="CenterAndExpand"
+               HorizontalOptions="CenterAndExpand" Grid.Row="0" Grid.Column="1"     />
+      <Button VerticalOptions="Fill" HorizontalOptions="Fill" Grid.Row="0" Grid.Column="1"  BorderColor="Transparent" BackgroundColor="Transparent"/>
+
+
 
     </Grid>
 
