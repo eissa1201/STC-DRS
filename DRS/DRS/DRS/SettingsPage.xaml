@@ -25,7 +25,7 @@
               BorderColor="Transparent"  BackgroundColor="Transparent"/>
 
       <Label VerticalOptions="EndAndExpand" Grid.Row="0" Grid.Column="0"
-             Text="Language" HorizontalOptions="CenterAndExpand" FontSize="30" TextColor="Black" FontAttributes="Bold" />
+             Text="Language" HorizontalOptions="CenterAndExpand" FontSize="30" TextColor="Black" FontAttributes="Bold" x:Name="gag" />
 
 
 

@@ -1,15 +1,3 @@
-C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\bin\Debug\DRS.dll
-C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\bin\Debug\DRS.pdb
-C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\bin\Debug\Xamarin.Forms.Core.dll
-C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\bin\Debug\Xamarin.Forms.Xaml.dll
-C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\bin\Debug\Xamarin.Forms.Core.xml
-C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\bin\Debug\Xamarin.Forms.Xaml.xml
-C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\obj\Debug\WelcomePage.xaml.g.cs
-C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\obj\Debug\DoctorSearch.xaml.g.cs
-C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\obj\Debug\DoctorRating.xaml.g.cs
-C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\obj\Debug\DRS.dll
-C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\obj\Debug\DRS.pdb
-C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\obj\Debug\DRS.csprojResolveAssemblyReference.cache
 C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\bin\Debug\DRS.dll
 C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\bin\Debug\DRS.pdb
 C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\bin\Debug\Xamarin.Forms.Core.dll
@@ -28,3 +16,147 @@ C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DR
 C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\obj\Debug\MainMenu.xaml.g.cs
 C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\obj\Debug\ProfilePage.xaml.g.cs
 C:\Users\Ahmed Al-Eissa\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\obj\Debug\SettingsPage.xaml.g.cs
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\obj\Debug\DRS.csproj.App.config
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\obj\Debug\DRS.csprojResolveAssemblyReference.cache
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\obj\Debug\WelcomePage.xaml.g.cs
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\obj\Debug\DoctorRating.xaml.g.cs
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\obj\Debug\RegisterPage.xaml.g.cs
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\obj\Debug\CitySearch.xaml.g.cs
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\obj\Debug\ProfilePage.xaml.g.cs
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\obj\Debug\SettingsPage.xaml.g.cs
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\bin\Debug\DRS.dll.config
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\bin\Debug\DRS.dll
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\bin\Debug\DRS.pdb
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\bin\Debug\System.Net.Http.dll
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\bin\Debug\System.Net.Http.xml
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\obj\Debug\DRS.dll
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\obj\Debug\DRS.pdb
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\obj\Debug\Menu.xaml.g.cs
+C:\Users\Darko\Documents\Visual Studio 2013\Projects\STC-DRS\DRS\DRS\DRS\obj\Debug\CreateEmployee.xaml.g.cs
+C:\Users\Darko\Desktop\DRS\DRS\DRS\bin\Debug\DRS.dll.config
+C:\Users\Darko\Desktop\DRS\DRS\DRS\bin\Debug\DRS.dll
+C:\Users\Darko\Desktop\DRS\DRS\DRS\bin\Debug\DRS.pdb
+C:\Users\Darko\Desktop\DRS\DRS\DRS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Darko\Desktop\DRS\DRS\DRS\bin\Debug\System.Net.Http.dll
+C:\Users\Darko\Desktop\DRS\DRS\DRS\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Darko\Desktop\DRS\DRS\DRS\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Darko\Desktop\DRS\DRS\DRS\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Darko\Desktop\DRS\DRS\DRS\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Darko\Desktop\DRS\DRS\DRS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Darko\Desktop\DRS\DRS\DRS\bin\Debug\System.Net.Http.xml
+C:\Users\Darko\Desktop\DRS\DRS\DRS\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Darko\Desktop\DRS\DRS\DRS\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Darko\Desktop\DRS\DRS\DRS\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Darko\Desktop\DRS\DRS\DRS\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Darko\Desktop\DRS\DRS\DRS\obj\Debug\DRS.csproj.App.config
+C:\Users\Darko\Desktop\DRS\DRS\DRS\obj\Debug\DRS.csprojResolveAssemblyReference.cache
+C:\Users\Darko\Desktop\DRS\DRS\DRS\obj\Debug\WelcomePage.xaml.g.cs
+C:\Users\Darko\Desktop\DRS\DRS\DRS\obj\Debug\DoctorRating.xaml.g.cs
+C:\Users\Darko\Desktop\DRS\DRS\DRS\obj\Debug\RegisterPage.xaml.g.cs
+C:\Users\Darko\Desktop\DRS\DRS\DRS\obj\Debug\CitySearch.xaml.g.cs
+C:\Users\Darko\Desktop\DRS\DRS\DRS\obj\Debug\ProfilePage.xaml.g.cs
+C:\Users\Darko\Desktop\DRS\DRS\DRS\obj\Debug\SettingsPage.xaml.g.cs
+C:\Users\Darko\Desktop\DRS\DRS\DRS\obj\Debug\Menu.xaml.g.cs
+C:\Users\Darko\Desktop\DRS\DRS\DRS\obj\Debug\CreateEmployee.xaml.g.cs
+C:\Users\Darko\Desktop\DRS\DRS\DRS\obj\Debug\DoctorsSearch.xaml.g.cs
+C:\Users\Darko\Desktop\DRS\DRS\DRS\obj\Debug\DRS.dll
+C:\Users\Darko\Desktop\DRS\DRS\DRS\obj\Debug\DRS.pdb
+C:\Users\Darko\Desktop\New folder\DRS\DRS\DRS\bin\Debug\DRS.dll.config
+C:\Users\Darko\Desktop\New folder\DRS\DRS\DRS\bin\Debug\DRS.dll
+C:\Users\Darko\Desktop\New folder\DRS\DRS\DRS\bin\Debug\DRS.pdb
+C:\Users\Darko\Desktop\New folder\DRS\DRS\DRS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Darko\Desktop\New folder\DRS\DRS\DRS\bin\Debug\System.Net.Http.dll
+C:\Users\Darko\Desktop\New folder\DRS\DRS\DRS\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Darko\Desktop\New folder\DRS\DRS\DRS\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Darko\Desktop\New folder\DRS\DRS\DRS\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Darko\Desktop\New folder\DRS\DRS\DRS\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Darko\Desktop\New folder\DRS\DRS\DRS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Darko\Desktop\New folder\DRS\DRS\DRS\bin\Debug\System.Net.Http.xml
+C:\Users\Darko\Desktop\New folder\DRS\DRS\DRS\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Darko\Desktop\New folder\DRS\DRS\DRS\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Darko\Desktop\New folder\DRS\DRS\DRS\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Darko\Desktop\New folder\DRS\DRS\DRS\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Darko\Desktop\New folder\DRS\DRS\DRS\obj\Debug\DRS.csproj.App.config
+C:\Users\Darko\Desktop\New folder\DRS\DRS\DRS\obj\Debug\DRS.csprojResolveAssemblyReference.cache
+C:\Users\Darko\Desktop\New folder\DRS\DRS\DRS\obj\Debug\WelcomePage.xaml.g.cs
+C:\Users\Darko\Desktop\New folder\DRS\DRS\DRS\obj\Debug\DoctorRating.xaml.g.cs
+C:\Users\Darko\Desktop\New folder\DRS\DRS\DRS\obj\Debug\RegisterPage.xaml.g.cs
+C:\Users\Darko\Desktop\New folder\DRS\DRS\DRS\obj\Debug\CitySearch.xaml.g.cs
+C:\Users\Darko\Desktop\New folder\DRS\DRS\DRS\obj\Debug\ProfilePage.xaml.g.cs
+C:\Users\Darko\Desktop\New folder\DRS\DRS\DRS\obj\Debug\SettingsPage.xaml.g.cs
+C:\Users\Darko\Desktop\New folder\DRS\DRS\DRS\obj\Debug\Menu.xaml.g.cs
+C:\Users\Darko\Desktop\New folder\DRS\DRS\DRS\obj\Debug\CreateEmployee.xaml.g.cs
+C:\Users\Darko\Desktop\New folder\DRS\DRS\DRS\obj\Debug\DoctorsSearch.xaml.g.cs
+C:\Users\Darko\Desktop\New folder\DRS\DRS\DRS\obj\Debug\Results.xaml.g.cs
+C:\Users\Darko\Desktop\New folder\DRS\DRS\DRS\obj\Debug\DRS.dll
+C:\Users\Darko\Desktop\New folder\DRS\DRS\DRS\obj\Debug\DRS.pdb
+C:\Users\Darko\Desktop\DRS v0.1\DRS\DRS\bin\Debug\DRS.dll.config
+C:\Users\Darko\Desktop\DRS v0.1\DRS\DRS\bin\Debug\DRS.dll
+C:\Users\Darko\Desktop\DRS v0.1\DRS\DRS\bin\Debug\DRS.pdb
+C:\Users\Darko\Desktop\DRS v0.1\DRS\DRS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Darko\Desktop\DRS v0.1\DRS\DRS\bin\Debug\System.Net.Http.dll
+C:\Users\Darko\Desktop\DRS v0.1\DRS\DRS\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Darko\Desktop\DRS v0.1\DRS\DRS\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Darko\Desktop\DRS v0.1\DRS\DRS\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Darko\Desktop\DRS v0.1\DRS\DRS\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Darko\Desktop\DRS v0.1\DRS\DRS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Darko\Desktop\DRS v0.1\DRS\DRS\bin\Debug\System.Net.Http.xml
+C:\Users\Darko\Desktop\DRS v0.1\DRS\DRS\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Darko\Desktop\DRS v0.1\DRS\DRS\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Darko\Desktop\DRS v0.1\DRS\DRS\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Darko\Desktop\DRS v0.1\DRS\DRS\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Darko\Desktop\DRS v0.1\DRS\DRS\obj\Debug\DRS.csproj.App.config
+C:\Users\Darko\Desktop\DRS v0.1\DRS\DRS\obj\Debug\DRS.csprojResolveAssemblyReference.cache
+C:\Users\Darko\Desktop\DRS v0.1\DRS\DRS\obj\Debug\WelcomePage.xaml.g.cs
+C:\Users\Darko\Desktop\DRS v0.1\DRS\DRS\obj\Debug\DoctorRating.xaml.g.cs
+C:\Users\Darko\Desktop\DRS v0.1\DRS\DRS\obj\Debug\RegisterPage.xaml.g.cs
+C:\Users\Darko\Desktop\DRS v0.1\DRS\DRS\obj\Debug\CitySearch.xaml.g.cs
+C:\Users\Darko\Desktop\DRS v0.1\DRS\DRS\obj\Debug\ProfilePage.xaml.g.cs
+C:\Users\Darko\Desktop\DRS v0.1\DRS\DRS\obj\Debug\SettingsPage.xaml.g.cs
+C:\Users\Darko\Desktop\DRS v0.1\DRS\DRS\obj\Debug\Menu.xaml.g.cs
+C:\Users\Darko\Desktop\DRS v0.1\DRS\DRS\obj\Debug\CreateEmployee.xaml.g.cs
+C:\Users\Darko\Desktop\DRS v0.1\DRS\DRS\obj\Debug\DoctorsSearch.xaml.g.cs
+C:\Users\Darko\Desktop\DRS v0.1\DRS\DRS\obj\Debug\Results.xaml.g.cs
+C:\Users\Darko\Desktop\DRS v0.1\DRS\DRS\obj\Debug\DRS.dll
+C:\Users\Darko\Desktop\DRS v0.1\DRS\DRS\obj\Debug\DRS.pdb
+C:\Users\Darko\Desktop\DRS v0.1\DRS\DRS\obj\Debug\Comments.xaml.g.cs
+C:\Users\Darko\Desktop\newer\DRS v0.1\DRS\DRS\bin\Debug\DRS.dll.config
+C:\Users\Darko\Desktop\newer\DRS v0.1\DRS\DRS\bin\Debug\DRS.dll
+C:\Users\Darko\Desktop\newer\DRS v0.1\DRS\DRS\bin\Debug\DRS.pdb
+C:\Users\Darko\Desktop\newer\DRS v0.1\DRS\DRS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Darko\Desktop\newer\DRS v0.1\DRS\DRS\bin\Debug\System.Net.Http.dll
+C:\Users\Darko\Desktop\newer\DRS v0.1\DRS\DRS\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Darko\Desktop\newer\DRS v0.1\DRS\DRS\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Darko\Desktop\newer\DRS v0.1\DRS\DRS\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Darko\Desktop\newer\DRS v0.1\DRS\DRS\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Darko\Desktop\newer\DRS v0.1\DRS\DRS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Darko\Desktop\newer\DRS v0.1\DRS\DRS\bin\Debug\System.Net.Http.xml
+C:\Users\Darko\Desktop\newer\DRS v0.1\DRS\DRS\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Darko\Desktop\newer\DRS v0.1\DRS\DRS\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Darko\Desktop\newer\DRS v0.1\DRS\DRS\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Darko\Desktop\newer\DRS v0.1\DRS\DRS\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Darko\Desktop\newer\DRS v0.1\DRS\DRS\obj\Debug\DRS.csproj.App.config
+C:\Users\Darko\Desktop\newer\DRS v0.1\DRS\DRS\obj\Debug\DRS.csprojResolveAssemblyReference.cache
+C:\Users\Darko\Desktop\newer\DRS v0.1\DRS\DRS\obj\Debug\WelcomePage.xaml.g.cs
+C:\Users\Darko\Desktop\newer\DRS v0.1\DRS\DRS\obj\Debug\DoctorRating.xaml.g.cs
+C:\Users\Darko\Desktop\newer\DRS v0.1\DRS\DRS\obj\Debug\RegisterPage.xaml.g.cs
+C:\Users\Darko\Desktop\newer\DRS v0.1\DRS\DRS\obj\Debug\CitySearch.xaml.g.cs
+C:\Users\Darko\Desktop\newer\DRS v0.1\DRS\DRS\obj\Debug\ProfilePage.xaml.g.cs
+C:\Users\Darko\Desktop\newer\DRS v0.1\DRS\DRS\obj\Debug\SettingsPage.xaml.g.cs
+C:\Users\Darko\Desktop\newer\DRS v0.1\DRS\DRS\obj\Debug\Menu.xaml.g.cs
+C:\Users\Darko\Desktop\newer\DRS v0.1\DRS\DRS\obj\Debug\CreateEmployee.xaml.g.cs
+C:\Users\Darko\Desktop\newer\DRS v0.1\DRS\DRS\obj\Debug\DoctorsSearch.xaml.g.cs
+C:\Users\Darko\Desktop\newer\DRS v0.1\DRS\DRS\obj\Debug\Results.xaml.g.cs
+C:\Users\Darko\Desktop\newer\DRS v0.1\DRS\DRS\obj\Debug\Comments.xaml.g.cs
+C:\Users\Darko\Desktop\newer\DRS v0.1\DRS\DRS\obj\Debug\DRS.dll
+C:\Users\Darko\Desktop\newer\DRS v0.1\DRS\DRS\obj\Debug\DRS.pdb

@@ -20,26 +20,26 @@
 
         </Grid.ColumnDefinitions>  
         
-        <Entry TextColor="White"   Placeholder=" Username"
+        <Entry TextColor="White"   Placeholder="Email"
                Grid.Row="0" VerticalOptions="Center"
                HorizontalOptions="Fill"
-               BackgroundColor="Transparent"></Entry>
+               BackgroundColor="Transparent" x:Name="EntryTitle"></Entry>
         
             <Entry   TextColor="White"   Placeholder=" Password " 
                  Grid.Row="1" 
                  VerticalOptions="Center"
-                 HorizontalOptions="Fill" BackgroundColor="Transparent"></Entry>
+                 HorizontalOptions="Fill" BackgroundColor="Transparent" x:Name="EntryTitle2" IsPassword="True" ></Entry>
 
 
         <ActivityIndicator Color="White"  IsRunning="true" Grid.Row="2"  WidthRequest="50"    />
         
         <Button FontSize="30"
-            Text="Sign in" VerticalOptions="Center"
-            HorizontalOptions="FillAndExpand" Clicked="SignIn" Grid.Row="3"   BackgroundColor="Transparent" BorderColor="White"/>
+            Text="Login" VerticalOptions="Center"
+            HorizontalOptions="FillAndExpand" Clicked="Login" Grid.Row="3"   BackgroundColor="Transparent" BorderColor="White"/>
 
         <Button FontSize="30"
             Text="Register new account" VerticalOptions="Center"
-            HorizontalOptions="FillAndExpand" Clicked="Registration" Grid.Row="4"  BackgroundColor="Transparent" BorderColor="White"/>
+            Clicked="Registration" Grid.Row="4"  BackgroundColor="Transparent" BorderColor="White"/>
       
       </Grid>
     </ContentView >

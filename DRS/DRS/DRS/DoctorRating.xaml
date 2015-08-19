@@ -1,6 +1,112 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="DRS.DoctorRating">
+             x:Class="DRS.DoctorRating" BackgroundImage="List.jpg">
   <Label Text="{Binding MainText}" VerticalOptions="Center" HorizontalOptions="Center" />
+
+  <StackLayout>
+   
+
+    <ContentView Padding="0,0,0,0">
+      <Grid >
+        <Grid.RowDefinitions>
+           
+          <RowDefinition Height="Auto"></RowDefinition>
+
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+
+          <ColumnDefinition Width="*"></ColumnDefinition>
+
+        </Grid.ColumnDefinitions>
+
+
+        <Label Grid.Row="0"   Text="Write your Comment " VerticalOptions="Center" HorizontalOptions="Center" FontAttributes="Italic" FontSize="35" x:Name="TitleOfComment"/>
+        <Editor Grid.Row="1"  VerticalOptions="CenterAndExpand" HorizontalOptions="Fill"  WidthRequest="50" HeightRequest="300" x:Name="Comment"/>
+        <Button Grid.Row="2"  Text="Post Comment" VerticalOptions="Start" HorizontalOptions="Center" FontSize="30" Clicked="PostComment" x:Name="WriteComment"  />
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <Label FontSize="25"
+          Text="Doctor's Name" VerticalOptions="Center"
+          HorizontalOptions="FillAndExpand" Grid.Row="0"  x:Name="DoctorName" />
+        
+        <Label FontSize="25"
+       Text="Specialty Name" VerticalOptions="Center"
+       HorizontalOptions="FillAndExpand" Grid.Row="1"  x:Name="SpecialtyName" />
+       
+        <Label FontSize="25"
+       Text="City Name" VerticalOptions="Center"
+       HorizontalOptions="FillAndExpand" Grid.Row="2"  x:Name="CityName" />
+        
+
+      </Grid>
+    </ContentView >
+
+    
+    
+    <ContentView Padding="0,0,0,0">
+      <Grid >
+        <Grid.RowDefinitions>
+
+          <RowDefinition Height="Auto"></RowDefinition>
+
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+
+          <ColumnDefinition Width="*"></ColumnDefinition>
+
+        </Grid.ColumnDefinitions>
+
+        <Image   x:Name="star0" Source="star.png" Grid.Row="3"  Grid.Column="0" VerticalOptions="Center" HorizontalOptions="Center"/>
+        <Image   x:Name="star1"  Source="star.png" Grid.Row="3"  Grid.Column="1" VerticalOptions="Center" HorizontalOptions="Center"/>
+        <Image   x:Name="star2" Source="star.png" Grid.Row="3"  Grid.Column="2" VerticalOptions="Center" HorizontalOptions="Center"/>
+        <Image   x:Name="star3"  Source="star.png" Grid.Row="3"  Grid.Column="3" VerticalOptions="Center" HorizontalOptions="Center"/>
+        <Image   x:Name="star4" Source="star.png" Grid.Row="3"  Grid.Column="4" VerticalOptions="Center" HorizontalOptions="Center"/>
+
+
+
+
+
+      </Grid>
+    </ContentView >
+
+
+    <Button FontSize="25"
+Text="Write a comment" VerticalOptions="Center"
+HorizontalOptions="FillAndExpand" Grid.Row="3"
+    Clicked="GoComment"   x:Name="StartCommenting"/>
+
+    <ListView x:Name="listView"  >
+      <ListView.ItemTemplate >
+        <DataTemplate >
+          <ViewCell >
+            <ViewCell.View >
+              <Label  Text="{Binding}" HorizontalOptions="CenterAndExpand" TextColor="White" FontSize="25" />
+
+            </ViewCell.View>
+          </ViewCell>
+        </DataTemplate>
+      </ListView.ItemTemplate>
+    </ListView>
+
+  </StackLayout>
+
+
+
+
+
+
+  
+  
+  
+  
+  
 </ContentPage>

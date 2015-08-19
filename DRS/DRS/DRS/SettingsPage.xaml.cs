@@ -13,24 +13,13 @@ namespace DRS
         public SettingsPage()
         {
             InitializeComponent();
-            SettingsLogic obj = new SettingsLogic();
-            obj.Cell1 = true;
-            this.BindingContext = obj;
+     
 
         }
 
         public void statment()
         {
-                SettingsLogic obj = new SettingsLogic();
-                if (obj.Cell1 == true)
-                {
-                    obj.Cell2 = "Delete";
-                }
-                else
-                {
-                    obj.Cell2 = "Keep";
-                }
-                this.BindingContext = obj;
+            
         }
 
 

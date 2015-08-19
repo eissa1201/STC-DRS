@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DRS.DoctorsSearch" BackgroundImage="List.jpg">
+  <StackLayout>
+
+
+    <ContentView Padding="0,0,0,0">
+      <Grid >
+        <Grid.RowDefinitions>
+
+          <RowDefinition Height="*"></RowDefinition>
+          <!---->
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+
+          <ColumnDefinition Width="*"></ColumnDefinition>
+
+        </Grid.ColumnDefinitions>
+
+
+
+        <Label Grid.Row="0"
+                  Text="Find Your Doctor" VerticalOptions="StartAndExpand" HorizontalOptions="CenterAndExpand" Font="37" FontAttributes="Bold" />
+
+
+        <Label  Grid.Row="2" x:Name="thePickerlabel" Text="Doctor's City" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" Font="25" FontAttributes="Bold" TextColor="Aqua"/>
+        <Picker Grid.Row="2" x:Name="thePicker" VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand" Title="Cities" />
+        <Label  Grid.Row="3" x:Name="thePicker2label" Text="Doctor's Hospital" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" Font="25" FontAttributes="Bold" TextColor="Aqua" IsVisible="False" />
+        <Picker Grid.Row="3" x:Name="thePicker2"  VerticalOptions="CenterAndExpand"  HorizontalOptions="FillAndExpand" Title="Hospitals" IsVisible="False"  />
+        <Label  Grid.Row="4" x:Name="thePicker3label" Text="Doctor's Specialty" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" Font="25" FontAttributes="Bold" TextColor="Aqua" IsVisible="False" />
+        <Picker Grid.Row="4" x:Name="thePicker3" VerticalOptions="CenterAndExpand"  HorizontalOptions="FillAndExpand"  Title="Specialties" IsVisible="False"  />
+        <Button Grid.Row="6" VerticalOptions="CenterAndExpand"  HorizontalOptions="FillAndExpand" Text="Find" BorderColor="Transparent" Clicked="Picker" />
+
+
+
+      </Grid>
+    </ContentView >
+
+  </StackLayout>
+</ContentPage>

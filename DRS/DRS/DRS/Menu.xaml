@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DRS.Menu" BackgroundImage="List.jpg">
+
+
+  <StackLayout >
+    
+      
+    <Grid>
+    
+         <Grid.RowDefinitions>
+
+          <RowDefinition Height="*"></RowDefinition>
+       
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+          
+          <ColumnDefinition Width="*"></ColumnDefinition>
+
+        </Grid.ColumnDefinitions>  
+        
+<Label HorizontalOptions="CenterAndExpand"  Grid.Row="1" Text="change me !" FontAttributes="Bold"   FontSize="37"  x:Name="use" />
+   
+    <Button  Grid.Row="3" Text="Find your Doctor"  BorderColor="Transparent" FontSize="30"  TextColor="White" Clicked="FindDoctor"   />
+    <Button  Grid.Row="4" Text="Create new Doctor"  BorderColor="Transparent" FontSize="30"  TextColor="White" Clicked="moveTo"   />
+    <Button  Grid.Row="5" Text="Edit Profile"  BorderColor="Transparent" FontSize="30" TextColor="White"/>
+    <Button   Grid.Row="6" Text="Settings"  BorderColor="Transparent" FontSize="30"  TextColor="White"/>
+  
+
+  </Grid>
+  </StackLayout>
+
+
+
+</ContentPage>
