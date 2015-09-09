@@ -33,8 +33,18 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <AndroidUseSharedRuntime>True</AndroidUseSharedRuntime>
+    <AndroidUseSharedRuntime>False</AndroidUseSharedRuntime>
     <AndroidLinkMode>None</AndroidLinkMode>
+    <AndroidLinkSkip />
+    <EmbedAssembliesIntoApk>True</EmbedAssembliesIntoApk>
+    <BundleAssemblies>False</BundleAssemblies>
+    <AndroidCreatePackagePerAbi>False</AndroidCreatePackagePerAbi>
+    <AndroidSupportedAbis>armeabi,armeabi-v7a,x86</AndroidSupportedAbis>
+    <AndroidStoreUncompressedFileExtensions />
+    <MandroidI18n />
+    <Debugger>Xamarin</Debugger>
+    <AndroidEnableMultiDex>False</AndroidEnableMultiDex>
+    <DevInstrumentationEnabled>True</DevInstrumentationEnabled>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
@@ -70,7 +80,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Localize.cs" />
     <Compile Include="MainActivity.cs" />
+    <Compile Include="MyEntryRenderer.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -88,18 +100,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Properties\AndroidManifest.xml" />
-    <AndroidResource Include="Resources\drawable\Complaint.png" />
-    <AndroidResource Include="Resources\drawable\DRS.png" />
-    <AndroidResource Include="Resources\drawable\hall.jpg" />
-    <AndroidResource Include="Resources\drawable\help.png" />
-    <AndroidResource Include="Resources\drawable\history.png" />
-    <AndroidResource Include="Resources\drawable\List.jpg" />
-    <AndroidResource Include="Resources\drawable\Profile.png" />
-    <AndroidResource Include="Resources\drawable\SearchR.png">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </AndroidResource>
-    <AndroidResource Include="Resources\drawable\settings.png" />
-    <AndroidResource Include="Resources\drawable\stc4.png" />
+    <AndroidResource Include="Resources\drawable\A1.jpg" />
+    <AndroidResource Include="Resources\drawable\LOGO.png" />
+    <AndroidResource Include="Resources\drawable\TitleName.PNG" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DRS\DRS.csproj">

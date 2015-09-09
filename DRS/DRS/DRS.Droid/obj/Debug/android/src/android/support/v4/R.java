@@ -11,16 +11,13 @@ public final class R {
     public static final class attr {
     }
     public static final class drawable {
-        public static int complaint=0x7f020000;
-        public static int drs=0x7f020001;
-        public static int hall=0x7f020002;
-        public static int help=0x7f020003;
-        public static int history=0x7f020004;
-        public static int icon=0x7f020005;
-        public static int list=0x7f020006;
-        public static int profile=0x7f020007;
-        public static int searchr=0x7f020008;
-        public static int settings=0x7f020009;
-        public static int stc4=0x7f02000a;
+        public static int a1=0x7f020000;
+        public static int icon=0x7f020001;
+        public static int logo=0x7f020002;
+        public static int monoandroidsplash=0x7f020003;
+        public static int titlename=0x7f020004;
+    }
+    public static final class style {
+        public static int Mono_Android_Theme_Splash=0x7f030000;
     }
 }

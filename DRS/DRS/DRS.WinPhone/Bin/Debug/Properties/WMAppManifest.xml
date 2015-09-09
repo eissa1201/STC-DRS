@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Deployment xmlns="http://schemas.microsoft.com/windowsphone/2012/deployment" AppPlatformVersion="8.0">
   <DefaultLanguage xmlns="" code="en-US" />
+  <Languages xmlns="">
+    <Language code="ar" />
+  </Languages>
   <App xmlns="" ProductID="{e15f399a-2ced-4d98-aa69-b60136bd001e}" Title="DRS.WinPhone" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="DRS.WinPhone author" Description="Sample description" Publisher="DRS.WinPhone" PublisherID="{b34d320b-9545-4208-a7b5-0628239f9ad2}">
     <IconPath IsRelative="true" IsResource="false">Assets\ApplicationIcon.png</IconPath>
     <Capabilities>

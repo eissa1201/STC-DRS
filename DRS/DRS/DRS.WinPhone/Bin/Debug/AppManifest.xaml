@@ -11,5 +11,7 @@
     <AssemblyPart x:Name="Xamarin.Forms.Xaml" Source="Xamarin.Forms.Xaml.dll" />
     <AssemblyPart x:Name="Newtonsoft.Json" Source="Newtonsoft.Json.dll" />
     <AssemblyPart x:Name="System.Windows.Interactivity" Source="System.Windows.Interactivity.dll" />
+    <AssemblyPart Source="ar/DRS.WinPhone.resources.dll" />
+    <AssemblyPart Source="ar/DRS.resources.dll" />
   </Deployment.Parts>
 </Deployment>

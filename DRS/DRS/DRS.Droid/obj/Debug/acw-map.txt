@@ -2,6 +2,14 @@ DRS.Droid.MainActivity, DRS.Droid;md5ad4a738e32f27dafbdcd97a0672dcc97.MainActivi
 DRS.Droid.MainActivity, DRS.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ad4a738e32f27dafbdcd97a0672dcc97.MainActivity
 DRS.Droid.MainActivity;md5ad4a738e32f27dafbdcd97a0672dcc97.MainActivity
 drs.droid.MainActivity;md5ad4a738e32f27dafbdcd97a0672dcc97.MainActivity
+DRS.Droid.MyEntryRenderer, DRS.Droid;md5ad4a738e32f27dafbdcd97a0672dcc97.MyEntryRenderer
+DRS.Droid.MyEntryRenderer, DRS.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ad4a738e32f27dafbdcd97a0672dcc97.MyEntryRenderer
+DRS.Droid.MyEntryRenderer;md5ad4a738e32f27dafbdcd97a0672dcc97.MyEntryRenderer
+drs.droid.MyEntryRenderer;md5ad4a738e32f27dafbdcd97a0672dcc97.MyEntryRenderer
+DRS.Droid.LabelPickerViewRenderer, DRS.Droid;md5ad4a738e32f27dafbdcd97a0672dcc97.LabelPickerViewRenderer
+DRS.Droid.LabelPickerViewRenderer, DRS.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ad4a738e32f27dafbdcd97a0672dcc97.LabelPickerViewRenderer
+DRS.Droid.LabelPickerViewRenderer;md5ad4a738e32f27dafbdcd97a0672dcc97.LabelPickerViewRenderer
+drs.droid.LabelPickerViewRenderer;md5ad4a738e32f27dafbdcd97a0672dcc97.LabelPickerViewRenderer
 Android.Support.V4.App.FragmentManager/IOnBackStackChangedListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.app.FragmentManager_OnBackStackChangedListenerImplementor
 Android.Support.V4.App.FragmentManager/IOnBackStackChangedListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.app.FragmentManager_OnBackStackChangedListenerImplementor
 Android.Support.V4.App.FragmentManager.IOnBackStackChangedListenerImplementor;mono.android.support.v4.app.FragmentManager_OnBackStackChangedListenerImplementor

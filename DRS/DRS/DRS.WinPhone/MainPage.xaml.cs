@@ -15,7 +15,7 @@ namespace DRS.WinPhone
         public MainPage()
         {
             InitializeComponent();
-            SupportedOrientations = SupportedPageOrientation.PortraitOrLandscape;
+            SupportedOrientations = SupportedPageOrientation.Portrait;
 
             global::Xamarin.Forms.Forms.Init();
             LoadApplication(new DRS.App());
