@@ -17,9 +17,15 @@ namespace DRS
         public Menu(string x, string y)
         {
             InitializeComponent();
+            Class1 c = new Class1();
+
+            Debug.WriteLine("your stored value is :"+c.Master);
+
+
+
             NavigationPage.SetHasNavigationBar(this, false);
-            Out.FadeTo(0, 1);
-            use.FadeTo(0, 1);
+            //Out.FadeTo(0, 1);
+            //use.FadeTo(0, 1);
             Find.FadeTo(0, 1);
             Create.FadeTo(0, 1);
             Edit.FadeTo(0, 1);
@@ -31,7 +37,7 @@ namespace DRS
 
             TheEmail = y;
 
-            use.Text = "Welcome " + SplitName.ToLower();
+            //use.Text = "Welcome " + SplitName.ToLower();
             Fade();
 
 
@@ -39,13 +45,13 @@ namespace DRS
 
         private async void Fade()
         {
-            await use.FadeTo(1, 500);
-            await Find.FadeTo(1, 1000);
+            //await use.FadeTo(1, 300);
+            await Find.FadeTo(1, 300);
 
-            await Create.FadeTo(1, 1000);
-            await Edit.FadeTo(1, 1000);
-            await options.FadeTo(1, 1000);
-            await Out.FadeTo(1, 1000);
+            await Create.FadeTo(1, 300);
+            await Edit.FadeTo(1, 300);
+            await options.FadeTo(1, 300);
+            //await Out.FadeTo(1, 300);
         }
         public async void moveTo(object sender, EventArgs args)
         {
@@ -78,10 +84,15 @@ namespace DRS
         public async void SignOut(object sender, EventArgs args)
         {
 
-            await Out.ScaleTo(0.95, 50, Easing.CubicOut);
-            await Out.ScaleTo(1, 50, Easing.CubicIn);
+            //await Out.ScaleTo(0.95, 50, Easing.CubicOut);
+            //await Out.ScaleTo(1, 50, Easing.CubicIn);
             await Navigation.PopAsync();
             //await Navigation.PushAsync(new Profile(TheEmail));
+        }
+        public async void GroupChat(object sender, EventArgs args)
+        {
+            await Navigation.PushAsync(new GroupChat());
+
         }
 
 

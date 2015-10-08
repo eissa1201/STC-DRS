@@ -110,6 +110,10 @@ namespace DRS
 
     public class DataParserForEmployees
     {
+        [JsonProperty(PropertyName = "Images", NullValueHandling = NullValueHandling.Ignore)]
+        public string Images { get; set; }
+
+
         [JsonProperty(PropertyName = "Username", NullValueHandling = NullValueHandling.Ignore)]
         public string Username { get; set; }
 
@@ -227,6 +231,8 @@ namespace DRS
             foreach (var item in results)
             {
                 resultList.Add(item.Name);
+                resultList.Add(item.Specialty);
+                resultList.Add(item.Images);
 
             }
             return resultList;

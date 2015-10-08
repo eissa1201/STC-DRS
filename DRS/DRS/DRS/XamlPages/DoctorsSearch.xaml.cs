@@ -342,7 +342,7 @@ namespace DRS
                     {
                         loading.IsVisible = false;
                         Cover.IsVisible = false;
-                        await Navigation.PushAsync(new Results(ListOfDoctors, username));
+                        await Navigation.PushAsync(new ResultsC(ListOfDoctors, username));
 
 
                     }
@@ -354,7 +354,7 @@ namespace DRS
                 }
                 else if (CityNumber != -1 && HospitalNumber != -1)
                 {
-
+                    
                     ListOfDoctors.Clear();
                     HttpClient client = new HttpClient();
                     HttpRequestMessage message = new HttpRequestMessage(HttpMethod.Get, "https://api.parse.com/1/classes/EmployeeData?" + WebUtility.UrlEncode("where=" + JsonConvert.SerializeObject(new DataParserForEmployees() { Hospital = MyHospital[HospitalNumber] })));
@@ -382,7 +382,7 @@ namespace DRS
                     {
                         loading.IsVisible = false;
                         Cover.IsVisible = false;
-                        await Navigation.PushAsync(new Results(ListOfDoctors, username));
+                        await Navigation.PushAsync(new ResultsC(ListOfDoctors, username));
 
                     }
 
@@ -418,7 +418,7 @@ namespace DRS
                     {
                         loading.IsVisible = false;
                         Cover.IsVisible = false;
-                        await Navigation.PushAsync(new Results(ListOfDoctors, username));
+                        await Navigation.PushAsync(new ResultsC(ListOfDoctors, username));
 
 
                     }
@@ -455,7 +455,7 @@ namespace DRS
                     {
                         loading.IsVisible = false;
                         Cover.IsVisible = false;
-                        await Navigation.PushAsync(new Results(ListOfDoctors, username));
+                        await Navigation.PushAsync(new ResultsC(ListOfDoctors, username));
 
 
                     }
